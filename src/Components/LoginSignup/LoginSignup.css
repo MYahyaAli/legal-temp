@@ -1,0 +1,14 @@
+.cnt{
+    background-color: rgba(255, 255, 255, 0.707);
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 100px;
+    width: 50%;
+}
+
+@media screen {
+    .cnt{
+        width: 100%;
+    }
+}
+
